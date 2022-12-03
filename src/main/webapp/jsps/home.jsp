@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Naren Software Solutions. Padur, Chennai </h1>
+<h1 align="center">Welcome to Naren Software Solutions, Chennai </h1>
 <h1 align="center"> Naren Software Solutions- Very Good Training center for DevOps with AWS in Padur, Chennai and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
